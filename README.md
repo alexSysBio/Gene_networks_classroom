@@ -1,4 +1,4 @@
-# Genetic_networks_and_dynamics
+# Gene_networks_classroom
 This repository includes examples of genetic networks and their associated dynamics.
 
 # Examples of genetic networks:
